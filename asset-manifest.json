@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aldbs-website/static/css/main.79ef515e.css",
+    "main.js": "/aldbs-website/static/js/main.dad3d4f0.js",
+    "index.html": "/aldbs-website/index.html",
+    "main.79ef515e.css.map": "/aldbs-website/static/css/main.79ef515e.css.map",
+    "main.dad3d4f0.js.map": "/aldbs-website/static/js/main.dad3d4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79ef515e.css",
+    "static/js/main.dad3d4f0.js"
+  ]
+}
